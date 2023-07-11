@@ -1,0 +1,15 @@
+div {
+    text-align: center;
+
+}
+
+main{
+    text-align: center;
+}
+
+#middle{
+    text-align: center;
+    border: solid black;
+    display: grid;
+    grid-row: auto;
+}
