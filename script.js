@@ -8,7 +8,7 @@ const upANum = document.querySelector(".up")
 const downANum = document.querySelector(".down")
 
 
-
+let counter = 0
 
 function addCounter(){
     counterDisplay.innerHTML = numberBox
